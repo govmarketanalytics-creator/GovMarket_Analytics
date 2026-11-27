@@ -1,0 +1,13 @@
+{
+  "modulo": "S04_Registro_y_Onboarding",
+  "titulo": "Onboarding y perfil de empresa",
+  "fuente_actual": "apps/web/src/onboarding/Onboarding.tsx",
+  "sha256_verificado": "7e0b2b1b7bd9dd9b21d4e5f3e2ba65fb339b989f6bbc5894e66fa4d0185bed2a",
+  "bytes": 59844,
+  "cotejo_hash": "OK",
+  "captura_codigo": "imagen generada de líneas literales del código actual",
+  "documento": "explicación técnica basada en archivo actual",
+  "mapa_funcional": "explicación; falta capturar ejecución del sistema en QA",
+  "fecha_manifiesto": "2026-11-27T22:56:37.123Z",
+  "revisar_antes_de_publicar": true
+}

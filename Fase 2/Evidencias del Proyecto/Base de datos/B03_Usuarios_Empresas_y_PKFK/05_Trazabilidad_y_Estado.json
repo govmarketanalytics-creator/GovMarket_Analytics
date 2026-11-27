@@ -1,0 +1,13 @@
+{
+  "modulo": "B03_Usuarios_Empresas_y_PKFK",
+  "titulo": "Relación usuarios / empresas / membresías",
+  "fuente_actual": "apps/api/src/database/migrations/1788389985118-CreateMembresiasEmpresaTable.ts",
+  "sha256_verificado": "30e1d3bc443e971db08dc92090fbedeb9f214dd3c5a1a742401bd03c48433a8c",
+  "bytes": 2323,
+  "cotejo_hash": "OK",
+  "captura_codigo": "imagen generada de líneas literales del código actual",
+  "documento": "explicación técnica basada en archivo actual",
+  "mapa_funcional": "explicación; falta capturar ejecución del sistema en QA",
+  "fecha_manifiesto": "2026-11-27T22:56:37.123Z",
+  "revisar_antes_de_publicar": true
+}

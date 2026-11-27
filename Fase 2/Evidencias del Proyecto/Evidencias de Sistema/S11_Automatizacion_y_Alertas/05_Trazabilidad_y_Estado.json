@@ -1,0 +1,13 @@
+{
+  "modulo": "S11_Automatizacion_y_Alertas",
+  "titulo": "Automatización y generación de alertas",
+  "fuente_actual": "apps/api/src/automatizacion/automatizacion.service.ts",
+  "sha256_verificado": "e36e2e3a769606b8f61546b7c7626b692bbac8f9647b5b64078d860506d43a83",
+  "bytes": 4137,
+  "cotejo_hash": "OK",
+  "captura_codigo": "imagen generada de líneas literales del código actual",
+  "documento": "explicación técnica basada en archivo actual",
+  "mapa_funcional": "explicación; falta capturar ejecución del sistema en QA",
+  "fecha_manifiesto": "2026-11-27T22:56:37.123Z",
+  "revisar_antes_de_publicar": true
+}

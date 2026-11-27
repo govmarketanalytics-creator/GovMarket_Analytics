@@ -1,0 +1,21 @@
+﻿modulo;grupo;fuente;sha256;imagen_codigo;word;pdf_funcional;codigo_referencia;captura_qa_real
+S01_Backend_NestJS;Evidencias de Sistema;apps/api/src/app.module.ts;86857e8196fa6ed3bab4ddd6ebd35b07fd0a81650e4ff803454e236dbd69900d;OK;OK;OK;OK;PENDIENTE
+S02_Frontend_React;Evidencias de Sistema;apps/web/src/App.tsx;f89bba4045b257f95e7ea154af14288b0ffd9632463af8b8fd236ef0f20c3a61;OK;OK;OK;OK;PENDIENTE
+S03_Identidad_y_Autorizacion;Evidencias de Sistema;apps/api/src/membresias/guards/rol-empresa.guard.ts;436e38a756804dc45cf876fd4eca08d3af590b9f032bf0a0f16fd1853d5b0ec8;OK;OK;OK;OK;PENDIENTE
+S04_Registro_y_Onboarding;Evidencias de Sistema;apps/web/src/onboarding/Onboarding.tsx;7e0b2b1b7bd9dd9b21d4e5f3e2ba65fb339b989f6bbc5894e66fa4d0185bed2a;OK;OK;OK;OK;PENDIENTE
+S05_Integracion_Mercado_Publico;Evidencias de Sistema;apps/api/src/integraciones/mercado-publico/mercado-publico.service.ts;fe75febff402d89684903fa72783b150ef3c5bb1b33b726d7a19ab7f62ae17cc;OK;OK;OK;OK;PENDIENTE
+S06_Buscador_de_Oportunidades;Evidencias de Sistema;apps/api/src/oportunidades/oportunidades.controller.ts;8a78af7b7bee3a23ce1644ebfe6250c2e6bc0be983f05233c23c8a3fb0626178;OK;OK;OK;OK;PENDIENTE
+S07_MATCH_Original;Evidencias de Sistema;apps/api/src/oportunidades/relevancia-capacidades.ts;898e0931cc1d5d1a6916feb193a6a59007ade2c581e4f45f76c0426c0eea4eda;OK;OK;OK;OK;PENDIENTE
+S08_Analisis_de_Mercado;Evidencias de Sistema;apps/api/src/analisis-mercado/analisis-mercado.service.ts;2902fbbd977289eefc52c100e4c51502237c2c6510367b95d7112c9328d9c842;OK;OK;OK;OK;PENDIENTE
+S09_Pagos_y_Planes;Evidencias de Sistema;apps/api/src/pagos/pagos.service.ts;4cb267a0fe9ca19aa07a626091bfda4e46d5c47e922ab97bf7a0b0e83c4ae775;OK;OK;OK;OK;PENDIENTE
+S10_Pruebas_Automatizadas;Evidencias de Sistema;apps/api/src/oportunidades/oportunidades.match08.spec.ts;241732bf71b6a3033f87641817dc4ce47ee99d640fb3d400aaba468675ff2293;OK;OK;OK;OK;PENDIENTE
+S11_Automatizacion_y_Alertas;Evidencias de Sistema;apps/api/src/automatizacion/automatizacion.service.ts;e36e2e3a769606b8f61546b7c7626b692bbac8f9647b5b64078d860506d43a83;OK;OK;OK;OK;PENDIENTE
+S12_Despliegue_y_CICD;Evidencias de Sistema;.github/workflows/deploy-api-azure.yml;213aec121f0008a7d0fa8fc497434e4602d45c876d45772caf1ce0d9853461d2;OK;OK;OK;OK;PENDIENTE
+S13_Instalacion_y_Dependencias;Evidencias de Sistema;package.json;29a765ac378134ec8f7ad9175e0cfd8e8ae11fcc60e9c03c04150e7b0e671e5f;OK;OK;OK;OK;PENDIENTE
+B01_PostgreSQL_y_TypeORM;Base de datos;apps/api/src/database/data-source.ts;35f2ef5a56ae29a60610db72fc1556424c695b1073d0ac270479ce34e0788509;OK;OK;OK;OK;PENDIENTE
+B02_Tablas_Catalogo_y_FK;Base de datos;apps/api/src/database/migrations/1789067048070-CreateLicitacionesTables.ts;cab648a7d8a9b4f6b3aa4e2faad17649ec52f1d50fef336a2662030e357d7c96;OK;OK;OK;OK;PENDIENTE
+B03_Usuarios_Empresas_y_PKFK;Base de datos;apps/api/src/database/migrations/1788389985118-CreateMembresiasEmpresaTable.ts;30e1d3bc443e971db08dc92090fbedeb9f214dd3c5a1a742401bd03c48433a8c;OK;OK;OK;OK;PENDIENTE
+B04_Suscripciones_y_Pagos_BD;Base de datos;apps/api/src/database/migrations/1792281600000-CreatePagosTransbank.ts;b68845c57e57e33e5a92e4b7dba2b5516c33e4176b828535eb3372f529583345;OK;OK;OK;OK;PENDIENTE
+B05_Gestion_de_Migraciones;Base de datos;apps/api/src/database/migrations/1788386438732-CreateEmpresasTable.ts;1fca80d382d46958bb6f633a631bd5cf3a01679bc9156c3643d5f325220b250e;OK;OK;OK;OK;PENDIENTE
+B06_Modelo_ERD_y_Diccionario;Base de datos;apps/api/src/empresas/entities/empresa.entity.ts;e9ad1d82be659f96bb7280f5cc31c06384adec33162d08332d1682e2013bf4e1;OK;OK;OK;OK;PENDIENTE
+B07_Creacion_de_Usuarios_Aplicacion;Base de datos;apps/api/src/database/migrations/1788389042276-CreateUsuariosTable.ts;031375a9db355fc8ccf586bee3dd559e1ef67d1d13a1e0294cff39d32684b476;OK;OK;OK;OK;PENDIENTE

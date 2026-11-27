@@ -1,0 +1,1161 @@
+{
+  "generado": "2026-11-27T22:56:37.123Z",
+  "proyecto": "C:\\Users\\franc\\GovMarket-Analytics",
+  "archivos": [
+    {
+      "ruta": "apps/api/src/alertas/alertas.controller.ts",
+      "sha256": "1d671a6913cdc000a7e5ff508f639e9c2689c625e8cab055d130a3225dd677ed",
+      "bytes": 1975
+    },
+    {
+      "ruta": "apps/api/src/alertas/alertas.module.ts",
+      "sha256": "a994b3f29f6afb5856e44b0d17f13f05d0d2f867213bcde4e1c814d4dbf225d7",
+      "bytes": 982
+    },
+    {
+      "ruta": "apps/api/src/alertas/alertas.service.ts",
+      "sha256": "c834a0a61f3130f71af0186cfe1af8e5a48a77a15428b152f2a21a2f72cd6e0a",
+      "bytes": 8007
+    },
+    {
+      "ruta": "apps/api/src/alertas/dto/consultar-alertas.dto.ts",
+      "sha256": "7d53f84dd7f8bc8ed4fb22a6805f699b6977b1d59ddf36a96c76053307782ac8",
+      "bytes": 395
+    },
+    {
+      "ruta": "apps/api/src/alertas/entities/alerta-oportunidad.entity.ts",
+      "sha256": "1f42b8f0505b5fedcbdf0048fdcb7afc14c9cb44139db27c91eeaa8626c39175",
+      "bytes": 2104
+    },
+    {
+      "ruta": "apps/api/src/analisis-mercado/analisis-mercado.controller.ts",
+      "sha256": "f3f59e63a661b378b303baf04c08dc9884526fa727c3085c5e8dba9047953d05",
+      "bytes": 1623
+    },
+    {
+      "ruta": "apps/api/src/analisis-mercado/analisis-mercado.module.ts",
+      "sha256": "7cd730358e94472f191ddff5322574f614b5b6c4781dafc831e65ee755e9a68f",
+      "bytes": 688
+    },
+    {
+      "ruta": "apps/api/src/analisis-mercado/analisis-mercado.service.spec.ts",
+      "sha256": "30c24ce419929c18f2b2adfb11baec4511621f5c833cd95435d7c3270be49efb",
+      "bytes": 6017
+    },
+    {
+      "ruta": "apps/api/src/analisis-mercado/analisis-mercado.service.ts",
+      "sha256": "2902fbbd977289eefc52c100e4c51502237c2c6510367b95d7112c9328d9c842",
+      "bytes": 8411
+    },
+    {
+      "ruta": "apps/api/src/analisis-mercado/consulta-analisis.ts",
+      "sha256": "11ee5ddfe10543ccb0046e46b81e1bcc4b4b2188b0a31422f84ca21e28cdfc45",
+      "bytes": 10316
+    },
+    {
+      "ruta": "apps/api/src/analisis-mercado/dto/consultar-analisis-mercado.dto.ts",
+      "sha256": "f4a89e3e84bcd086107ae9d323358ec7c83bffd0396f4702df293968f9d50f33",
+      "bytes": 1838
+    },
+    {
+      "ruta": "apps/api/src/analisis-mercado/modelo-analisis.ts",
+      "sha256": "bf11d474a41ec2345a692c212cb4bad88ed9691ee5da5a277ea803a38388272e",
+      "bytes": 5075
+    },
+    {
+      "ruta": "apps/api/src/analisis-mercado/modelo-mercado-web.spec.ts",
+      "sha256": "fd1f732f759ea65219713a1baac9ba1acaf2d7e313e91c34d79f6f4c74658df9",
+      "bytes": 1570
+    },
+    {
+      "ruta": "apps/api/src/analisis-mercado/noticias-mercado.service.spec.ts",
+      "sha256": "fc2a6bd5e23122e9fbee10d7c1dd0959ef58a8535875db63ec97a86a610e6f00",
+      "bytes": 4955
+    },
+    {
+      "ruta": "apps/api/src/analisis-mercado/noticias-mercado.service.ts",
+      "sha256": "c390239af5413def1d637a23d2f0a49d1bf26c56655e637923820944ff3ff4e1",
+      "bytes": 8403
+    },
+    {
+      "ruta": "apps/api/src/app.controller.spec.ts",
+      "sha256": "43750c632fc7f5997ddd690d4c3989443ab29ebd8866ee1fec6f3885834f8054",
+      "bytes": 639
+    },
+    {
+      "ruta": "apps/api/src/app.controller.ts",
+      "sha256": "3469c5aa62e1ba5b183d9bb9d40193e91aa761fc5734d332650b0bd49c346266",
+      "bytes": 286
+    },
+    {
+      "ruta": "apps/api/src/app.module.ts",
+      "sha256": "86857e8196fa6ed3bab4ddd6ebd35b07fd0a81650e4ff803454e236dbd69900d",
+      "bytes": 2996
+    },
+    {
+      "ruta": "apps/api/src/app.service.ts",
+      "sha256": "5d4242d50092a353e5ab1f06663a89dbc714c7d9d70072ea03c83c5b14750f05",
+      "bytes": 150
+    },
+    {
+      "ruta": "apps/api/src/app.setup.ts",
+      "sha256": "65a9db094b78969af6c4444284bd34e528a80d815da139e0a0c623d6bf720090",
+      "bytes": 241
+    },
+    {
+      "ruta": "apps/api/src/auth/almacen-sesion.spec.ts",
+      "sha256": "5b239240b04c59fa1d8aa76f938698ffee6433714ff64e0a7af0ebcb853cfc52",
+      "bytes": 2813
+    },
+    {
+      "ruta": "apps/api/src/auth/auth.controller.ts",
+      "sha256": "7ab74eca7c72df6d9cc9e56e227fd3c31b135c1d399e0bfc6a8819d13843db83",
+      "bytes": 2476
+    },
+    {
+      "ruta": "apps/api/src/auth/auth.module.ts",
+      "sha256": "a81d67e03ec1dbff2b79602fdb2076d5dca0066e288ba0502244651aac5b95b1",
+      "bytes": 1263
+    },
+    {
+      "ruta": "apps/api/src/auth/auth.service.ts",
+      "sha256": "d19933bdd67d9d6b4049e23387e81dd4d9bb029d0a132c73427a1b5add27e4e2",
+      "bytes": 9893
+    },
+    {
+      "ruta": "apps/api/src/auth/dto/actualizar-perfil.dto.ts",
+      "sha256": "60bf45a8b1ff143db63a42a216335a56cd22fbc3b1c8ad28f24645165fb02eb5",
+      "bytes": 673
+    },
+    {
+      "ruta": "apps/api/src/auth/dto/cambiar-password.dto.ts",
+      "sha256": "86d33983004ef8fd82a5db9834a989f83fdf63e8cff84035299a8b687a517409",
+      "bytes": 1283
+    },
+    {
+      "ruta": "apps/api/src/auth/dto/login-google.dto.ts",
+      "sha256": "1f18c2ba64a781f3ffac4593969718e64c8e861851b3e5b4420c14eba309c4d0",
+      "bytes": 190
+    },
+    {
+      "ruta": "apps/api/src/auth/dto/login.dto.ts",
+      "sha256": "346018b525a610592e732f9edd448b08a6124ee1df001bad59fc02b0709bcf76",
+      "bytes": 421
+    },
+    {
+      "ruta": "apps/api/src/auth/dto/registrar-usuario.dto.ts",
+      "sha256": "359060355ad39ea7fc33422797cc3f899a23f23144f6fc76e847fb01168fc69c",
+      "bytes": 962
+    },
+    {
+      "ruta": "apps/api/src/auth/guards/jwt-auth.guard.ts",
+      "sha256": "3a026ffcbbacbf1b982dfcb6d7ea2b46208826534fe5cc2fc52c3631771e42c1",
+      "bytes": 1197
+    },
+    {
+      "ruta": "apps/api/src/auth/guards/superadministrador.guard.ts",
+      "sha256": "0dd953ea21938672515d0646669e3552d11fdbdbde48ea4bfee92202a2fff570",
+      "bytes": 588
+    },
+    {
+      "ruta": "apps/api/src/auth/interfaces/jwt-payload.interface.ts",
+      "sha256": "23b613c07d9dc523f841dc12ba3c0d353dc4da465195e94fc27d46cb7a10e139",
+      "bytes": 300
+    },
+    {
+      "ruta": "apps/api/src/auth/opciones-jwt.ts",
+      "sha256": "d997ff60d0bac549eea985567cbb4342d78445de17858053702b7cf52f93e549",
+      "bytes": 1091
+    },
+    {
+      "ruta": "apps/api/src/auth/sesion-local.spec.ts",
+      "sha256": "618ede717346a8f182bd3172052b0ca4f4d2c90a5f7f99b51a342b5eae274332",
+      "bytes": 3093
+    },
+    {
+      "ruta": "apps/api/src/automatizacion/automatizacion.module.ts",
+      "sha256": "7cb339000f3bea9750db3d31ffd1af1bb3eee003a69191d5cc34eb9a0d267aac",
+      "bytes": 780
+    },
+    {
+      "ruta": "apps/api/src/automatizacion/automatizacion.service.spec.ts",
+      "sha256": "f214824486cb207b64d2033b0dab213e176303a6d6d1ae0a58d877680a4fbd9e",
+      "bytes": 6244
+    },
+    {
+      "ruta": "apps/api/src/automatizacion/automatizacion.service.ts",
+      "sha256": "e36e2e3a769606b8f61546b7c7626b692bbac8f9647b5b64078d860506d43a83",
+      "bytes": 4137
+    },
+    {
+      "ruta": "apps/api/src/config/environment.schema.ts",
+      "sha256": "05b84c13ce2ea998708c1565a4d180f0adc5336bdab7ab84b95af78484168fb9",
+      "bytes": 3208
+    },
+    {
+      "ruta": "apps/api/src/database/data-source.ts",
+      "sha256": "35f2ef5a56ae29a60610db72fc1556424c695b1073d0ac270479ce34e0788509",
+      "bytes": 705
+    },
+    {
+      "ruta": "apps/api/src/database/migrations/1788386438732-CreateEmpresasTable.ts",
+      "sha256": "1fca80d382d46958bb6f633a631bd5cf3a01679bc9156c3643d5f325220b250e",
+      "bytes": 1281
+    },
+    {
+      "ruta": "apps/api/src/database/migrations/1788389042276-CreateUsuariosTable.ts",
+      "sha256": "031375a9db355fc8ccf586bee3dd559e1ef67d1d13a1e0294cff39d32684b476",
+      "bytes": 1537
+    },
+    {
+      "ruta": "apps/api/src/database/migrations/1788389985118-CreateMembresiasEmpresaTable.ts",
+      "sha256": "30e1d3bc443e971db08dc92090fbedeb9f214dd3c5a1a742401bd03c48433a8c",
+      "bytes": 2323
+    },
+    {
+      "ruta": "apps/api/src/database/migrations/1789067048070-CreateLicitacionesTables.ts",
+      "sha256": "cab648a7d8a9b4f6b3aa4e2faad17649ec52f1d50fef336a2662030e357d7c96",
+      "bytes": 4439
+    },
+    {
+      "ruta": "apps/api/src/database/migrations/1789072027874-CreateLicitacionesFavoritasTable.ts",
+      "sha256": "f950dbf656d4fa83eedf600713021ba97e91dd4f2c58d101380f81b00a627bd3",
+      "bytes": 2722
+    },
+    {
+      "ruta": "apps/api/src/database/migrations/1789144537483-CreatePerfilesEmpresaTable.ts",
+      "sha256": "fc9751a02af79f84b4d408f69db2a134c31c538fa7c32c302f60fc4137d64719",
+      "bytes": 1983
+    },
+    {
+      "ruta": "apps/api/src/database/migrations/1789150392362-CreateAlertasOportunidadesTable.ts",
+      "sha256": "890369604fd431eeb92122ba315ee6bf792c27d714296d8da211cf67fcce3bee",
+      "bytes": 3244
+    },
+    {
+      "ruta": "apps/api/src/database/migrations/1790013600000-AddGoogleSubUsuarios.ts",
+      "sha256": "fdda3066d72ef6571ba964a3e757bcbcac0a1962819d2a79efea660781b69bad",
+      "bytes": 724
+    },
+    {
+      "ruta": "apps/api/src/database/migrations/1790100000000-AllowGoogleOnlyUsuarios.ts",
+      "sha256": "e534a5b742413ae3050484f445e7e1027e47f89f18df6252d708c9fd3f48f646",
+      "bytes": 1030
+    },
+    {
+      "ruta": "apps/api/src/database/migrations/1790103600000-CreateSuscripcionesEmpresaTable.ts",
+      "sha256": "75677e55cbc1ff936b604403a033d2b1073f26b3f76ea89086d71c9bc323424d",
+      "bytes": 1960
+    },
+    {
+      "ruta": "apps/api/src/database/migrations/1790899200000-ExpandOnboardingEmpresaProfile.ts",
+      "sha256": "f7d6414b54782f7965bf912022eb8f2c26010f1c402fc0dcd0b5cd9656536f29",
+      "bytes": 4980
+    },
+    {
+      "ruta": "apps/api/src/database/migrations/1791936000000-AddActiveSyncMetadataToLicitaciones.ts",
+      "sha256": "452567b7c4962cf87cbc35c661f749f3c1b9cee230c33b87d552c8eee312408b",
+      "bytes": 1861
+    },
+    {
+      "ruta": "apps/api/src/database/migrations/1792195200000-CreateNotificacionesOportunidad.ts",
+      "sha256": "1e7abd1ec9aaee54c7af4c4e7bd7e65fd4629f6ba157247ce8000056bc200197",
+      "bytes": 3338
+    },
+    {
+      "ruta": "apps/api/src/database/migrations/1792202400000-CreateResultadosAdjudicaciones.ts",
+      "sha256": "a1735b97928ede53720504cd05db6fcec8c4e2595dd78362d9131f53e65a957c",
+      "bytes": 4393
+    },
+    {
+      "ruta": "apps/api/src/database/migrations/1792206000000-AllowDuplicateItemCorrelativos.ts",
+      "sha256": "bfe0cb822f5f9ba7b949ab312adfc40dbaf0bc46423aa7614e98f01b05ef66b1",
+      "bytes": 886
+    },
+    {
+      "ruta": "apps/api/src/database/migrations/1792209600000-CreateLicitacionesListadoDia.ts",
+      "sha256": "ce6950f79c3084f08e4e387a56d66078220bc1e4df211e05f11f2d37db3a4e2b",
+      "bytes": 1600
+    },
+    {
+      "ruta": "apps/api/src/database/migrations/1792281600000-CreatePagosTransbank.ts",
+      "sha256": "b68845c57e57e33e5a92e4b7dba2b5516c33e4176b828535eb3372f529583345",
+      "bytes": 2718
+    },
+    {
+      "ruta": "apps/api/src/database/migrations/1792368000000-LinkPaymentsToSubscriptions.ts",
+      "sha256": "ca3bd2d190af16281db6b2f270cc3eeccbfad60388e1923a862939e8e7e6d65a",
+      "bytes": 1350
+    },
+    {
+      "ruta": "apps/api/src/database/migrations/1794960000000-ControlIngestaIncremental.ts",
+      "sha256": "a1a68c89880e6e414c9662c1917732d5614176565aa3df4de34706f49dfefd34",
+      "bytes": 1424
+    },
+    {
+      "ruta": "apps/api/src/database/migrations/1795737600000-AgregarOfertasNexus.ts",
+      "sha256": "b19b1c4fd7c163c530dd6a1b608d4b3135e015900daac33967fda30ae5f2518e",
+      "bytes": 465
+    },
+    {
+      "ruta": "apps/api/src/database/seeds/seed-superadmin.ts",
+      "sha256": "0f5941c0a72d6ac46643065b27a56ee2738f82df82e897d0b175780bc172571a",
+      "bytes": 2128
+    },
+    {
+      "ruta": "apps/api/src/empresas/dto/crear-empresa.dto.ts",
+      "sha256": "960fb7c5d6356a550b8dcab4469da2614c0b474d7ef2a80af8b7c7d6f5b92450",
+      "bytes": 1838
+    },
+    {
+      "ruta": "apps/api/src/empresas/empresas.controller.ts",
+      "sha256": "772b9c550d48f9469a20b00a307853f3c41160d53a9ee647d625c61745410965",
+      "bytes": 1707
+    },
+    {
+      "ruta": "apps/api/src/empresas/empresas.module.ts",
+      "sha256": "05886bcce94d968495d9df1099a7faf9e4b71b2228bea6c889cdb6161b0aa116",
+      "bytes": 741
+    },
+    {
+      "ruta": "apps/api/src/empresas/empresas.service.ts",
+      "sha256": "8c9ea8e85e311181f0322ea10e63d9b24333cb15f759e67ec23c98dae3204ff8",
+      "bytes": 1823
+    },
+    {
+      "ruta": "apps/api/src/empresas/entities/empresa.entity.ts",
+      "sha256": "e9ad1d82be659f96bb7280f5cc31c06384adec33162d08332d1682e2013bf4e1",
+      "bytes": 2424
+    },
+    {
+      "ruta": "apps/api/src/favoritos/entities/licitacion-favorita.entity.ts",
+      "sha256": "61d22c3cc132f4fbdbed531fccf7065ac3746bf2500aa0212cdf5c5495cd8c5c",
+      "bytes": 1842
+    },
+    {
+      "ruta": "apps/api/src/favoritos/favoritos.controller.ts",
+      "sha256": "4e0c5cc3b19de25d61c3f69ca531f9573f2cf2714c7d54ccf84582794784ad4d",
+      "bytes": 1420
+    },
+    {
+      "ruta": "apps/api/src/favoritos/favoritos.module.ts",
+      "sha256": "9bdffc3cbc323bea8bc555d08de4a5955ac78afaa66c70082d6eeb941f0fc247",
+      "bytes": 869
+    },
+    {
+      "ruta": "apps/api/src/favoritos/favoritos.service.ts",
+      "sha256": "f3400d875be1089c13a6cc35e1e28724d07aae498b181c3786cb5f3c33769325",
+      "bytes": 5069
+    },
+    {
+      "ruta": "apps/api/src/health/health.controller.ts",
+      "sha256": "38abbf8e7a0beeccf7578897edeb565ccacc5899a6323db6c0271e43d63e186a",
+      "bytes": 298
+    },
+    {
+      "ruta": "apps/api/src/health/health.module.ts",
+      "sha256": "a207a8cbd27c389c40d52e9ea02ab0356bb85fbc8e0e4f29cb8adcb2481eb704",
+      "bytes": 264
+    },
+    {
+      "ruta": "apps/api/src/health/health.service.ts",
+      "sha256": "24dcf5c150703f397a1d8c4e4d4161c47d1c748fefe524afe81c136b0cc5d9e8",
+      "bytes": 713
+    },
+    {
+      "ruta": "apps/api/src/integraciones/mercado-publico/control-consultas.service.ts",
+      "sha256": "26863d14d100ca6b15efd5886d95f73c7c6854f257f3bf10d8148dd4bf724ece",
+      "bytes": 3091
+    },
+    {
+      "ruta": "apps/api/src/integraciones/mercado-publico/control-consultas.spec.ts",
+      "sha256": "7eb8af0757211406f9115141f911c234a14938cdd330be2fb3044a4bcd87ea9b",
+      "bytes": 6836
+    },
+    {
+      "ruta": "apps/api/src/integraciones/mercado-publico/interfaces/licitacion-mercado-publico.interface.ts",
+      "sha256": "e063bd64bb109c1268cb2ad8543fdd0c6b694502db5cf76b934437df1b1a2c8a",
+      "bytes": 340
+    },
+    {
+      "ruta": "apps/api/src/integraciones/mercado-publico/mercado-publico.module.ts",
+      "sha256": "78382808377a98259111a4a61c682740ddf7c80f2ae32f90b4c424a81d54e1af",
+      "bytes": 439
+    },
+    {
+      "ruta": "apps/api/src/integraciones/mercado-publico/mercado-publico.service.spec.ts",
+      "sha256": "0248ffedd73f016c21206bc0d95c3bd377fd678cbdcc8d303cc79a55a15dd79e",
+      "bytes": 4920
+    },
+    {
+      "ruta": "apps/api/src/integraciones/mercado-publico/mercado-publico.service.ts",
+      "sha256": "fe75febff402d89684903fa72783b150ef3c5bb1b33b726d7a19ab7f62ae17cc",
+      "bytes": 7427
+    },
+    {
+      "ruta": "apps/api/src/integraciones/mercado-publico/scripts/inspeccionar-estructura.ts",
+      "sha256": "405d0e54c8d29ac0fb0ae3a7dd32733bc7cf1f41b5c8bc9fa0ab1cc09980a71e",
+      "bytes": 2445
+    },
+    {
+      "ruta": "apps/api/src/integraciones/mercado-publico/scripts/probar-conexion.ts",
+      "sha256": "bbe8594e3940504ddbfd13e5d3a457bda87b97dd8440e89fec69b2e864c3042e",
+      "bytes": 1080
+    },
+    {
+      "ruta": "apps/api/src/licitaciones/analizador-etiquetas.spec.ts",
+      "sha256": "683dc10d80619bafc4cd6f9c84049dbc3b92bb5c253f9f92c6033fa9d7215095",
+      "bytes": 2428
+    },
+    {
+      "ruta": "apps/api/src/licitaciones/analizador-etiquetas.ts",
+      "sha256": "5397dbc5092961a25c6ab205472c82b085b1d366f836c2d7f5e806d08f2b7565",
+      "bytes": 6671
+    },
+    {
+      "ruta": "apps/api/src/licitaciones/analizador-resultados.spec.ts",
+      "sha256": "a1418e3828dfce90e6a663d9f5f1c3acc021512a47c60483c915c075416e0731",
+      "bytes": 2394
+    },
+    {
+      "ruta": "apps/api/src/licitaciones/analizador-resultados.ts",
+      "sha256": "cc9d8f03e1aedbfc1145ed7ad276cda7f6c9326ffc280f8f5dac6b8435d0a59c",
+      "bytes": 7158
+    },
+    {
+      "ruta": "apps/api/src/licitaciones/catalogo-etiquetas.spec.ts",
+      "sha256": "4d1e6a38e7379301acd24a997682f59c90398e897b40ba04f68d260021bbf7d9",
+      "bytes": 2036
+    },
+    {
+      "ruta": "apps/api/src/licitaciones/catalogo-etiquetas.ts",
+      "sha256": "5d7633cfa76486c354760b99e00fb3882330bcc2f72f1fe1cf1d8912f0f1db31",
+      "bytes": 16955
+    },
+    {
+      "ruta": "apps/api/src/licitaciones/catalogo-rendimiento.spec.ts",
+      "sha256": "5150dacef7a6220870c957a32591d1877972e2b7caa09005f9b15ec91eb252ab",
+      "bytes": 3217
+    },
+    {
+      "ruta": "apps/api/src/licitaciones/cola-detalles.service.ts",
+      "sha256": "cb5af3dcefd050de4b2bcb32deb538378e6c84c4180dd0015dce5b5a2d9ff4c9",
+      "bytes": 3283
+    },
+    {
+      "ruta": "apps/api/src/licitaciones/consulta-licitaciones/consulta-licitaciones.service.ts",
+      "sha256": "413d3ff55a2d6efe969bce4707ea694d8a3f652a22c4f8328814b95477cee336",
+      "bytes": 7526
+    },
+    {
+      "ruta": "apps/api/src/licitaciones/dto/consultar-licitaciones.dto.ts",
+      "sha256": "5b14a6a7477f13fe9d6826bcaa37ee51899a33e1e8170381d6b4c51e4963f99c",
+      "bytes": 1931
+    },
+    {
+      "ruta": "apps/api/src/licitaciones/entities/licitacion-adjudicacion.entity.ts",
+      "sha256": "14f2f01c915b44a0141f328260fcb6d3460c270e40c4a271315ac3efc705094b",
+      "bytes": 2266
+    },
+    {
+      "ruta": "apps/api/src/licitaciones/entities/licitacion-item.entity.ts",
+      "sha256": "17aa274571c60e98fc082b14f07203110ed28b00bd5a79a6b5580cac15fb9181",
+      "bytes": 1773
+    },
+    {
+      "ruta": "apps/api/src/licitaciones/entities/licitacion-listado-dia.entity.ts",
+      "sha256": "ded84f9440701893a6e70380c18aa2002df2345ec06e041d781fa74dc70801b9",
+      "bytes": 1272
+    },
+    {
+      "ruta": "apps/api/src/licitaciones/entities/licitacion-resultado.entity.ts",
+      "sha256": "ade683ffce728677f13367598180b53af7b3c0093f5ad719d1161d271f57b30b",
+      "bytes": 2284
+    },
+    {
+      "ruta": "apps/api/src/licitaciones/entities/licitacion.entity.ts",
+      "sha256": "4f0f90d2f0a2123c0da0ba04ca86bc427c2a68fd25c4a0404f2a103fde4dfc8d",
+      "bytes": 4146
+    },
+    {
+      "ruta": "apps/api/src/licitaciones/entities/sincronizacion-listado-dia.entity.ts",
+      "sha256": "10b40669d4a1f69984dd7da7280f296d3bf9050d41c07d3ca3344e952fc4754d",
+      "bytes": 637
+    },
+    {
+      "ruta": "apps/api/src/licitaciones/ingesta-incremental.spec.ts",
+      "sha256": "f22439f9824e04f60b26f1b5123453611d598939b81b8dcf2d552d0ed4263cbc",
+      "bytes": 12118
+    },
+    {
+      "ruta": "apps/api/src/licitaciones/ingesta-licitaciones.service.spec.ts",
+      "sha256": "d61b745f3240c045cb778faf85bf06a7f6df2600c6f1c2e268bc196eebd74118",
+      "bytes": 10425
+    },
+    {
+      "ruta": "apps/api/src/licitaciones/ingesta-licitaciones.service.ts",
+      "sha256": "f71646a88313231a8ffa3d0737eeafcdabaa40cdb1d49e9972d1c241548cf9e9",
+      "bytes": 16187
+    },
+    {
+      "ruta": "apps/api/src/licitaciones/licitaciones.controller.ts",
+      "sha256": "f636ff9c27311e5703156c2ca02437421400e59834a69c8104618abe2effef18",
+      "bytes": 1224
+    },
+    {
+      "ruta": "apps/api/src/licitaciones/licitaciones.module.ts",
+      "sha256": "4ec6eeb1c28196d88942f23e088b87ff95536072bf615ff99fecebf3dee1c7d1",
+      "bytes": 1718
+    },
+    {
+      "ruta": "apps/api/src/licitaciones/licitaciones.service.ts",
+      "sha256": "96f7ade8cd2770b63d28bc875992d25e44791f638e6033876d37a754133cb4d0",
+      "bytes": 26314
+    },
+    {
+      "ruta": "apps/api/src/licitaciones/scripts/analizar-etiquetas.ts",
+      "sha256": "c56087701b4f524059c317fe08da4ed954e525c1b0d9a95bc03f4d74753550fb",
+      "bytes": 2638
+    },
+    {
+      "ruta": "apps/api/src/licitaciones/scripts/completar-catalogo.ts",
+      "sha256": "df5efb38541f3f72116703e5b0eafd39463488b5b13ab8ffea285cf0725c7bad",
+      "bytes": 6810
+    },
+    {
+      "ruta": "apps/api/src/licitaciones/scripts/sincronizar-activas.ts",
+      "sha256": "1ed3db18a76ca04757ab2351f0ff6bbd9cdbd5fe2683393c2eeb2c882ca568e9",
+      "bytes": 2435
+    },
+    {
+      "ruta": "apps/api/src/licitaciones/scripts/sincronizar-dia.ts",
+      "sha256": "2b8cb02b851e9b57de3491a96c62244f0b075172819195a276ae67ea3db7f1e2",
+      "bytes": 2583
+    },
+    {
+      "ruta": "apps/api/src/licitaciones/scripts/sincronizar-licitacion.ts",
+      "sha256": "253b73b3cd3050978e019553fa6900af1cac9d63906b24554f6903a26f5363ab",
+      "bytes": 1468
+    },
+    {
+      "ruta": "apps/api/src/licitaciones/scripts/sincronizar-mes.ts",
+      "sha256": "6fdfee984baa4292f4d556a529b69c5f06780b5cecf5432585348cf5a23e9063",
+      "bytes": 2778
+    },
+    {
+      "ruta": "apps/api/src/main.ts",
+      "sha256": "86a39ec7f0c8854512a912ebd72b77460308a3ee8108059edb6bdf08fa62d09b",
+      "bytes": 569
+    },
+    {
+      "ruta": "apps/api/src/membresias/decorators/roles-empresa.decorator.ts",
+      "sha256": "d83445e439784bd794f3b8bcabeb8c2479e63c4944a9d844b035b4ce5d82e7b2",
+      "bytes": 287
+    },
+    {
+      "ruta": "apps/api/src/membresias/dto/crear-usuario-empresa.dto.ts",
+      "sha256": "6a25e58cb91aea286ed3f4c6693758fa5c7e558dd9e6d88fccdd81f0a4688cec",
+      "bytes": 1321
+    },
+    {
+      "ruta": "apps/api/src/membresias/entities/membresia-empresa.entity.ts",
+      "sha256": "89345867d8125b6fe65128339afd4fbfc73cc918fac0572ab7fc9d725eff5a60",
+      "bytes": 1687
+    },
+    {
+      "ruta": "apps/api/src/membresias/guards/membresia-empresa.guard.ts",
+      "sha256": "8dcf6c6c2378fbfd5be3fef4b20feac42525ea760f42353d2a2e2459b2f4c809",
+      "bytes": 1627
+    },
+    {
+      "ruta": "apps/api/src/membresias/guards/rol-empresa.guard.ts",
+      "sha256": "436e38a756804dc45cf876fd4eca08d3af590b9f032bf0a0f16fd1853d5b0ec8",
+      "bytes": 1335
+    },
+    {
+      "ruta": "apps/api/src/membresias/membresias.controller.ts",
+      "sha256": "74ba93e0079e6a5c66d1eb2386ecc83175dea84042befa12a36e600a1c69e065",
+      "bytes": 1778
+    },
+    {
+      "ruta": "apps/api/src/membresias/membresias.module.ts",
+      "sha256": "5e6db086ad9aa67cf3b2019d6fe8038d09b0bbd8b5e16287ac3cbe7fa6d7263b",
+      "bytes": 952
+    },
+    {
+      "ruta": "apps/api/src/membresias/membresias.service.ts",
+      "sha256": "c485c91257a97cebfb265fda0c4080cbac67db8e46a383e6bd6e994c3d85e69c",
+      "bytes": 6798
+    },
+    {
+      "ruta": "apps/api/src/nexus/catalogo-nexus.ts",
+      "sha256": "24ad7562e6591fac63e245d5abf435b75a80652d7fe96b32221173fe26bfa0b3",
+      "bytes": 5596
+    },
+    {
+      "ruta": "apps/api/src/nexus/evaluador-nexus.spec.ts",
+      "sha256": "8b6274e2f49a95929d442653707651cbed43285eba33209b3c95e5f6e499678a",
+      "bytes": 11364
+    },
+    {
+      "ruta": "apps/api/src/nexus/evaluador-nexus.ts",
+      "sha256": "1619af0a0f149a32d3d574bb42fab8c5cb844e8bf63e9dcae1b5d73d08462b68",
+      "bytes": 7623
+    },
+    {
+      "ruta": "apps/api/src/nexus/ofertas.dto.ts",
+      "sha256": "ff4d28823254b53abaa96052b0eda68401cc81a2e189618b4ae5f17133770c6d",
+      "bytes": 280
+    },
+    {
+      "ruta": "apps/api/src/nexus/oportunidades-nexus.spec.ts",
+      "sha256": "82e56443e5df4b9ef437004e7adad81d68b58caba53a3ef250ce697d4f028095",
+      "bytes": 5265
+    },
+    {
+      "ruta": "apps/api/src/nexus/perfil-nexus.spec.ts",
+      "sha256": "9dff2665e8f9e6209f5523cebded74303d1823b82ee12ec1f5e6d4f08d25c7b1",
+      "bytes": 5873
+    },
+    {
+      "ruta": "apps/api/src/notificaciones/dto/consultar-notificaciones.dto.ts",
+      "sha256": "2a4f6283fa791fc3f9cfa9d46dfc6f8ce1c7d207fecadb048356dd4907d74ab5",
+      "bytes": 403
+    },
+    {
+      "ruta": "apps/api/src/notificaciones/entities/notificacion-oportunidad.entity.ts",
+      "sha256": "85c64be2e97a773c97e8dac3eee4cbc733b2c1bc0fd2e3a2481140bc7504306f",
+      "bytes": 2068
+    },
+    {
+      "ruta": "apps/api/src/notificaciones/entities/notificacion-usuario.entity.ts",
+      "sha256": "fb7eaee405c06d7c7b6a1783bf5a7612e9eb0d53ef5774372cec809e6e404bd3",
+      "bytes": 1616
+    },
+    {
+      "ruta": "apps/api/src/notificaciones/notificaciones.controller.ts",
+      "sha256": "0efd0c9e4883897a79058e7e7c90c8be21563e0545f1d916a0a3d2649cd63256",
+      "bytes": 1738
+    },
+    {
+      "ruta": "apps/api/src/notificaciones/notificaciones.module.ts",
+      "sha256": "faba8c1161fa8134b4723585efc999cf7f96d7ebd37824e7ed329e53ca0c3864",
+      "bytes": 1142
+    },
+    {
+      "ruta": "apps/api/src/notificaciones/notificaciones.service.ts",
+      "sha256": "62d3918d5ea4eda7e048518e2c3198b0e300f8bf26ebd53de750b02772913d5c",
+      "bytes": 13268
+    },
+    {
+      "ruta": "apps/api/src/notificaciones/scripts/crear-notificacion-prueba.ts",
+      "sha256": "f800f5c50d099e3cfa3de2f2a68b38a5362cf93cea1fb0adc8a5f3a6c9dd6701",
+      "bytes": 1513
+    },
+    {
+      "ruta": "apps/api/src/onboarding/dto/guardar-etiquetas-capacidades.dto.ts",
+      "sha256": "3464bc0c85b1b0fd26a33ed00b06842a377ef269ba2c8eee8868900951526474",
+      "bytes": 1467
+    },
+    {
+      "ruta": "apps/api/src/onboarding/dto/guardar-informacion-empresa.dto.ts",
+      "sha256": "3fda993fd72c773903ed92886d6e614e9bdf2975f0f7d010938f8c0101034b7f",
+      "bytes": 2337
+    },
+    {
+      "ruta": "apps/api/src/onboarding/dto/guardar-preferencias-comerciales.dto.ts",
+      "sha256": "be92c488f821935a81150bdc2e914f19e253901311ac8ddbd913ad99c0f78154",
+      "bytes": 2171
+    },
+    {
+      "ruta": "apps/api/src/onboarding/onboarding.controller.ts",
+      "sha256": "7b5427ba944cdd99a4a6cfe22e041921c471d93c09a03c585911bfae5b7e46b2",
+      "bytes": 2438
+    },
+    {
+      "ruta": "apps/api/src/onboarding/onboarding.module.ts",
+      "sha256": "c969d56b106066dac22a5d95226cb7a73ba5721850f26666ef8e1b2a5b7410f0",
+      "bytes": 960
+    },
+    {
+      "ruta": "apps/api/src/onboarding/onboarding.service.ts",
+      "sha256": "b1091dc252c39de8bdd591fe1b031dc9f5997bcbc72245ead9e02c5f1f93304d",
+      "bytes": 15423
+    },
+    {
+      "ruta": "apps/api/src/oportunidades/cache-consultas.spec.ts",
+      "sha256": "8d2023c2092e425e6b5c43cc794521e49286007991ebf7b45dc5fd7b44cab975",
+      "bytes": 2576
+    },
+    {
+      "ruta": "apps/api/src/oportunidades/cache-consultas.ts",
+      "sha256": "7745c8140318bce85657ada01b22c2e8bd163ea3589255992cbe6a7bafe3cc9c",
+      "bytes": 2200
+    },
+    {
+      "ruta": "apps/api/src/oportunidades/cliente-consultas.spec.ts",
+      "sha256": "82d26f2c11e3aa57a9b12798a1f08282d115cc38909eba1761e440d689f4ea7b",
+      "bytes": 2186
+    },
+    {
+      "ruta": "apps/api/src/oportunidades/dto/consultar-oportunidades.dto.ts",
+      "sha256": "c7f9f53b5f3ec0a336455302bbcb3cd1f90a607e0cb4669d83b2f3dd3185ebca",
+      "bytes": 2291
+    },
+    {
+      "ruta": "apps/api/src/oportunidades/match-local-casos.spec.ts",
+      "sha256": "a11eb716f1a5c74035c488b2b03bd22dc2ad6b5330d943f453a37b47374c7db8",
+      "bytes": 6219
+    },
+    {
+      "ruta": "apps/api/src/oportunidades/montos-dashboard.ts",
+      "sha256": "547ed16faae870e9422eec102d6b6b668d66dc390cbe891c85e62d79405eb075",
+      "bytes": 2998
+    },
+    {
+      "ruta": "apps/api/src/oportunidades/oportunidades.busqueda-normalizada.spec.ts",
+      "sha256": "e6fbd0f2607943ba0a6c898bc3572229e249f196284a4f225d643a2efd8f4f74",
+      "bytes": 3143
+    },
+    {
+      "ruta": "apps/api/src/oportunidades/oportunidades.controller.ts",
+      "sha256": "8a78af7b7bee3a23ce1644ebfe6250c2e6bc0be983f05233c23c8a3fb0626178",
+      "bytes": 2199
+    },
+    {
+      "ruta": "apps/api/src/oportunidades/oportunidades.dashboard-verificado.spec.ts",
+      "sha256": "5a907f8a3da126439ff1b0b55e4828d2bcc095a3cac59608ec239bbf0f9ebc4d",
+      "bytes": 10092
+    },
+    {
+      "ruta": "apps/api/src/oportunidades/oportunidades.exclusion-pruebas.spec.ts",
+      "sha256": "760b02db4c5cfb789147a0291e1f588228dab6e3aa2a166d0c1d2981ba350836",
+      "bytes": 8788
+    },
+    {
+      "ruta": "apps/api/src/oportunidades/oportunidades.lotes.spec.ts",
+      "sha256": "f78c68af531c89c1daa79dcfe53d3cf35629c39b71e103e98d6c28c55579c05c",
+      "bytes": 2382
+    },
+    {
+      "ruta": "apps/api/src/oportunidades/oportunidades.match-negocio.spec.ts",
+      "sha256": "a859ad21254517f4fbeefb041c511b81390d7693f6053a47e25ffb2460be3cae",
+      "bytes": 4470
+    },
+    {
+      "ruta": "apps/api/src/oportunidades/oportunidades.match08.spec.ts",
+      "sha256": "241732bf71b6a3033f87641817dc4ce47ee99d640fb3d400aaba468675ff2293",
+      "bytes": 3117
+    },
+    {
+      "ruta": "apps/api/src/oportunidades/oportunidades.module.ts",
+      "sha256": "c94bc8148e840867f722d68380b1cf8c693893c2cbff3e3712c7b20d1b2ebcd1",
+      "bytes": 918
+    },
+    {
+      "ruta": "apps/api/src/oportunidades/oportunidades.monedas.spec.ts",
+      "sha256": "8c5a4d6fb531f59332e1acd4f69000dca566c8839f61d95cc04cd48b19c2ea04",
+      "bytes": 8725
+    },
+    {
+      "ruta": "apps/api/src/oportunidades/oportunidades.region-desconocida.spec.ts",
+      "sha256": "ab8e8586b8977bcf396049a61db89e24fef8646ff65a847dbb6b5f813d34ecf3",
+      "bytes": 6286
+    },
+    {
+      "ruta": "apps/api/src/oportunidades/oportunidades.rendimiento.spec.ts",
+      "sha256": "03f7321a9e2f9bd8bab76915f07c1d18df12d25530886e56f96e76532a0b7b0f",
+      "bytes": 6498
+    },
+    {
+      "ruta": "apps/api/src/oportunidades/oportunidades.service.ts",
+      "sha256": "f8dba43bab90a193a7d5b7fb96d9952ed3380430e5492e5191a9e5359589d390",
+      "bytes": 54451
+    },
+    {
+      "ruta": "apps/api/src/oportunidades/relevancia-capacidades.ts",
+      "sha256": "898e0931cc1d5d1a6916feb193a6a59007ade2c581e4f45f76c0426c0eea4eda",
+      "bytes": 8246
+    },
+    {
+      "ruta": "apps/api/src/oportunidades/relevancia-preparada.spec.ts",
+      "sha256": "0927d0dbf8f203e491f82cbe88a9453736942cc18d4a6d9a9db9ac7dcda4af45",
+      "bytes": 2852
+    },
+    {
+      "ruta": "apps/api/src/oportunidades/resumen-dashboard-verificado.ts",
+      "sha256": "4e27973574077baef9da9b56e3a8e05ca8304857dfae416febf02b9f2f4320ae",
+      "bytes": 11561
+    },
+    {
+      "ruta": "apps/api/src/pagos/catalogo-planes.spec.ts",
+      "sha256": "4a06f8111197a94eacfcebe94f394697f54ccbbfd0af191542c492eb7289d305",
+      "bytes": 850
+    },
+    {
+      "ruta": "apps/api/src/pagos/catalogo-planes.ts",
+      "sha256": "467c5323c671d0eef664a2942af9554e7aba120431c9a98a7e7f019255647809",
+      "bytes": 1104
+    },
+    {
+      "ruta": "apps/api/src/pagos/dto/iniciar-pago.dto.ts",
+      "sha256": "c3ba0d5addfb8e96c84625714e75e05ac3a4d145a1dc0252d3f6326cb6fac564",
+      "bytes": 264
+    },
+    {
+      "ruta": "apps/api/src/pagos/entities/pago-transbank.entity.ts",
+      "sha256": "7c211aa3d78b40b772a0716776a060a5daa6d2fe1721c878b765d2b52a1e27f7",
+      "bytes": 3922
+    },
+    {
+      "ruta": "apps/api/src/pagos/pagos.controller.ts",
+      "sha256": "6a643f07da1be75441dbd051db46b89345f016211d74b0f669f0c0659f75e11a",
+      "bytes": 1767
+    },
+    {
+      "ruta": "apps/api/src/pagos/pagos.module.ts",
+      "sha256": "0d08f80705dbfb6bdf82baf3d12a42014f4b120f6d61efcc3660b8cb94fe341d",
+      "bytes": 809
+    },
+    {
+      "ruta": "apps/api/src/pagos/pagos.service.ts",
+      "sha256": "4cb267a0fe9ca19aa07a626091bfda4e46d5c47e922ab97bf7a0b0e83c4ae775",
+      "bytes": 14345
+    },
+    {
+      "ruta": "apps/api/src/pagos/transbank-retorno.controller.ts",
+      "sha256": "8083e5fe40b43cb27741b1e8e4a38ce1c511c958ef630f2351163a33a87dc082",
+      "bytes": 871
+    },
+    {
+      "ruta": "apps/api/src/pagos/transbank-webpay.service.ts",
+      "sha256": "3ca92a2a7482d5aa70c462ed5c68ff631409cbea32963d11084664532ef6fbdc",
+      "bytes": 1284
+    },
+    {
+      "ruta": "apps/api/src/perfiles-empresa/dto/guardar-perfil-empresa.dto.ts",
+      "sha256": "ba73f1f2e8124fd553fef362ac4f0b6a0ad118b4e62cf829e164d3c12783b1b9",
+      "bytes": 2647
+    },
+    {
+      "ruta": "apps/api/src/perfiles-empresa/entities/perfil-empresa.entity.ts",
+      "sha256": "3387e6ee58c50049ff150f2d453962d83c6da0404d3d4b9fb315b1819434600d",
+      "bytes": 3233
+    },
+    {
+      "ruta": "apps/api/src/perfiles-empresa/perfiles-empresa.controller.ts",
+      "sha256": "b989a0f77be6ed0b37f0c77e94ab4e34cd8eaea2ce6e35841a8fe15f0feb01b9",
+      "bytes": 1373
+    },
+    {
+      "ruta": "apps/api/src/perfiles-empresa/perfiles-empresa.module.ts",
+      "sha256": "783f4a3e56315af7f2bd2a84ab19e05c8fb1a3dfa98ba313c19097295c2713da",
+      "bytes": 712
+    },
+    {
+      "ruta": "apps/api/src/perfiles-empresa/perfiles-empresa.service.ts",
+      "sha256": "f95ab0d582e8454e71a71281393819f9d31d05b9986de7830875e040c7f75fbe",
+      "bytes": 3654
+    },
+    {
+      "ruta": "apps/api/src/planes-empresa/entities/suscripcion-empresa.entity.ts",
+      "sha256": "10017bb5b50d4543e597ac507a41f41d195704031b565c875d5eff52f23f4386",
+      "bytes": 1689
+    },
+    {
+      "ruta": "apps/api/src/planes-empresa/guards/plan-premium.guard.ts",
+      "sha256": "26347ee07dc9f4a065c827b3b5a47ae69c0bc2e1099cfacaffd0851ffcd6e8ab",
+      "bytes": 1285
+    },
+    {
+      "ruta": "apps/api/src/planes-empresa/planes-empresa.module.ts",
+      "sha256": "f11b16f027a4fc50fc2780d7f4438891fb732e9ea70157cc91ce607f38a482d6",
+      "bytes": 526
+    },
+    {
+      "ruta": "apps/api/src/planes-empresa/planes-empresa.service.ts",
+      "sha256": "7473392e6eae6f32abcfeb1420bdbca270d7107f86b8cc865b589d7f42296515",
+      "bytes": 2145
+    },
+    {
+      "ruta": "apps/api/src/usuarios/entities/usuario.entity.ts",
+      "sha256": "9ee84d4e95ce42d2c6dac44a7d2ce9b7fec7d2c6ebccb2d9a1db0a5eb704240e",
+      "bytes": 1978
+    },
+    {
+      "ruta": "apps/api/src/usuarios/usuarios.module.ts",
+      "sha256": "9c473a12ef5744929d64401c53758fa20a1868734efc3daa3cb772008949dbcb",
+      "bytes": 380
+    },
+    {
+      "ruta": "apps/api/src/usuarios/usuarios.service.ts",
+      "sha256": "6b46cc7bc19c280625c9e218b1bfc76738a1a43190a2f04938e69f82ce56e617",
+      "bytes": 4342
+    },
+    {
+      "ruta": "apps/web/src/App.css",
+      "sha256": "da79f2aa1b6a48cb4c706694f60bbc4ddd2a330e60d4f8147b8e0f8a8f034f1c",
+      "bytes": 10918
+    },
+    {
+      "ruta": "apps/web/src/App.tsx",
+      "sha256": "f89bba4045b257f95e7ea154af14288b0ffd9632463af8b8fd236ef0f20c3a61",
+      "bytes": 23908
+    },
+    {
+      "ruta": "apps/web/src/auth/almacen-sesion.ts",
+      "sha256": "63ab9b75316613fb31acb98110f76f38ad9771e8edf30bf2a2c1b8bb1e63c4ed",
+      "bytes": 1418
+    },
+    {
+      "ruta": "apps/web/src/auth/RegistroUsuario.css",
+      "sha256": "f2bbbda0f68baf04b97bc0a9685d381fadbf86169a6b6898f7054579675586fb",
+      "bytes": 1691
+    },
+    {
+      "ruta": "apps/web/src/auth/RegistroUsuario.tsx",
+      "sha256": "455dddcf4dc2eb851d51673c94bbeab9da205844785e5d6fe0e6fbecb8cc9114",
+      "bytes": 8987
+    },
+    {
+      "ruta": "apps/web/src/dashboard/ConsejosBusqueda.css",
+      "sha256": "4fe429defd6f22782a727e97c109d0020b1e060a05ebd0bf0190c48eaf3d0e0f",
+      "bytes": 1204
+    },
+    {
+      "ruta": "apps/web/src/dashboard/ConsejosBusqueda.tsx",
+      "sha256": "31a656a7e14c198520aeb09ebdb05a2ddb34515edb1a2cf8af289a9d88e136bd",
+      "bytes": 1791
+    },
+    {
+      "ruta": "apps/web/src/dashboard/Dashboard.css",
+      "sha256": "c6c1350b2be184df5842a90e8f597afa9a81f06411982e69117283d23e1bab18",
+      "bytes": 36726
+    },
+    {
+      "ruta": "apps/web/src/dashboard/Dashboard.tsx",
+      "sha256": "2990c31b88a283a17a407b9f5facbc90b7fa5e1760d2d9e370100a300ae60627",
+      "bytes": 44595
+    },
+    {
+      "ruta": "apps/web/src/dashboard/DashboardVerificado.css",
+      "sha256": "04dd2d0b6062acab39506a294dc6801a686083cd4c44dcae959213b9d27611e4",
+      "bytes": 14798
+    },
+    {
+      "ruta": "apps/web/src/dashboard/DashboardVerificado.tsx",
+      "sha256": "f8a44698ad59aa93adf3be33e759ed8388c3f4da9f7639f3584b432c9f66e418",
+      "bytes": 15044
+    },
+    {
+      "ruta": "apps/web/src/dashboard/dashboardVerificado.types.ts",
+      "sha256": "40825a775384d14ce8e9b86309cbf47c5e3d05060904ab9a09d94024b50c1988",
+      "bytes": 2431
+    },
+    {
+      "ruta": "apps/web/src/dashboard/modeloInicio.ts",
+      "sha256": "affc621e66c0910a091cb2d35ce8c5526a8cc4ca2f0698030cfaf0a1afeaff59",
+      "bytes": 1413
+    },
+    {
+      "ruta": "apps/web/src/dashboard/montosDashboard.ts",
+      "sha256": "5c4226f4af13f139bcc0bcffd4a1f94d6672abed00929428af8fe1d649b1eb5f",
+      "bytes": 3015
+    },
+    {
+      "ruta": "apps/web/src/GoogleSignIn.tsx",
+      "sha256": "ae1d639853b8d2b64b5a412d67cee894f7acac785c9951d0459392111a3c0a63",
+      "bytes": 3223
+    },
+    {
+      "ruta": "apps/web/src/index.css",
+      "sha256": "dfe3253f811a44b85624d95e732a6c8181b4a9910d9359575e8c153b10877fd6",
+      "bytes": 440
+    },
+    {
+      "ruta": "apps/web/src/main.tsx",
+      "sha256": "484f93f3048565a86a47e308f5a12ee27aa12f5291f3b52a4bb5dc03d887dbc7",
+      "bytes": 240
+    },
+    {
+      "ruta": "apps/web/src/market-analysis/ChileMap.tsx",
+      "sha256": "49b968118b9a6ba667141c03f60ca15668699d85723a8f9af58dacbef040868b",
+      "bytes": 4487
+    },
+    {
+      "ruta": "apps/web/src/market-analysis/MarketAnalysis.css",
+      "sha256": "0a93b0b34bea5525b2418cc1429776bb0bfe73c332284bd7e74496bdf06ba988",
+      "bytes": 19250
+    },
+    {
+      "ruta": "apps/web/src/market-analysis/MarketAnalysis.tsx",
+      "sha256": "754a9f38554b55ddb6546d3b1e7dd9e7ac598ba62c9dfc3ba79b59a0068487b2",
+      "bytes": 33241
+    },
+    {
+      "ruta": "apps/web/src/market-analysis/MarketChart.tsx",
+      "sha256": "0521f15da4be27c9c04f660232a33793b07eb43c3b36589076fda059e3d4090b",
+      "bytes": 6158
+    },
+    {
+      "ruta": "apps/web/src/market-analysis/MarketDrilldown.tsx",
+      "sha256": "fd98f6f336c9dffefc1435b8a94639d5dd7a3fe12fde72c1c3f4a773cf96182a",
+      "bytes": 6483
+    },
+    {
+      "ruta": "apps/web/src/market-analysis/MarketNews.tsx",
+      "sha256": "15eee628501299f412f99067528baf8794a813527b24049385447108e2fe4d69",
+      "bytes": 6718
+    },
+    {
+      "ruta": "apps/web/src/market-analysis/modeloMercado.ts",
+      "sha256": "d629a26dd1831686751451168e6b409d6b2eaea97e7f921699f933b0e07bd89c",
+      "bytes": 7232
+    },
+    {
+      "ruta": "apps/web/src/market-analysis/types.ts",
+      "sha256": "bac193f9f42d564033e38b1857e7de6fc12ce360589e24e55d46b131ce1458f0",
+      "bytes": 3855
+    },
+    {
+      "ruta": "apps/web/src/onboarding/Onboarding.css",
+      "sha256": "c492987d2b54a634fb1e172721843ee7e38f25efbea55eaf5d211da9a764bf83",
+      "bytes": 23197
+    },
+    {
+      "ruta": "apps/web/src/onboarding/Onboarding.tsx",
+      "sha256": "7e0b2b1b7bd9dd9b21d4e5f3e2ba65fb339b989f6bbc5894e66fa4d0185bed2a",
+      "bytes": 59844
+    },
+    {
+      "ruta": "apps/web/src/onboarding/SelectorOfertas.css",
+      "sha256": "de5a77ed8e25b61ba311716328a80f46d1f9701d4abd931d5a5170bd3dcf01c7",
+      "bytes": 1440
+    },
+    {
+      "ruta": "apps/web/src/onboarding/SelectorOfertas.tsx",
+      "sha256": "8705185b475d0d4acd4f9f577f74db85d2aec5369026468eb1c6185b08021505",
+      "bytes": 3718
+    },
+    {
+      "ruta": "apps/web/src/opportunities/AvisoConsulta.tsx",
+      "sha256": "8ce6a8ac01573e2b9e279e445b9b1ab6c368c41efda8de5d8dd6766e0fe45ce8",
+      "bytes": 712
+    },
+    {
+      "ruta": "apps/web/src/opportunities/consulta-http.ts",
+      "sha256": "0c525ea37162e9797b981f1a7920cd9791c8f7b6ab66bef9abe4d5fa593bfb2c",
+      "bytes": 4578
+    },
+    {
+      "ruta": "apps/web/src/opportunities/Opportunities.css",
+      "sha256": "1ef86bd3766ef5683c5374c5bb0b63c78070eabf4f9e6d2561228cc2d657825d",
+      "bytes": 19780
+    },
+    {
+      "ruta": "apps/web/src/opportunities/OpportunityCard.tsx",
+      "sha256": "75cb9c883c33267c48e3e101cb6ed6516ff75a5cb3080ccc1fefbc3e8c7a5590",
+      "bytes": 4155
+    },
+    {
+      "ruta": "apps/web/src/opportunities/OpportunityDetail.tsx",
+      "sha256": "7e3d9bab0a0d35d3cf229061d6e77f53693cfb7f7788d0e91d37263944a2e40d",
+      "bytes": 18333
+    },
+    {
+      "ruta": "apps/web/src/opportunities/OpportunitySearch.tsx",
+      "sha256": "677922de323c9b26426308fc146cd4e05df591c90fa0127b5400fc58ed8270b8",
+      "bytes": 10179
+    },
+    {
+      "ruta": "apps/web/src/opportunities/RecommendedOpportunities.tsx",
+      "sha256": "e156556aa5c8a0a379beca5ffdd845b18a3fdcf6e1004d79fc76968896364504",
+      "bytes": 10720
+    },
+    {
+      "ruta": "apps/web/src/opportunities/types.ts",
+      "sha256": "1ea4f87d7450ca2170c27c063ef7c1c9a0ab2617f39365a0d5b3262855b581b5",
+      "bytes": 4095
+    },
+    {
+      "ruta": "apps/web/src/opportunities/useConsultaOportunidades.ts",
+      "sha256": "34eeb7ff1597b1595cef9e1df2af312c9bc0e5874a6a79f9a7e78585ae441dc0",
+      "bytes": 5624
+    },
+    {
+      "ruta": "apps/web/src/placeholders/SectionPlaceholder.css",
+      "sha256": "21b862bf50770d3936152497b6688d1888b0cbecfe5d65caf6fd74f0c5ba5333",
+      "bytes": 1092
+    },
+    {
+      "ruta": "apps/web/src/placeholders/SectionPlaceholder.tsx",
+      "sha256": "fa5c9a2e658d12163ab98c9e8a7e87b9fc5cf7ce0bedbdf9be93c9462c637e49",
+      "bytes": 899
+    },
+    {
+      "ruta": "apps/web/src/reports/Reports.css",
+      "sha256": "b5746a890b58ad74b89a55936012ccab487625a4646a122dd868f72120d311da",
+      "bytes": 4525
+    },
+    {
+      "ruta": "apps/web/src/reports/Reports.tsx",
+      "sha256": "82ee314463ec381bcfca41ae8939c139e038324b63a53abd2abd5b4dfdf1cfaa",
+      "bytes": 3809
+    },
+    {
+      "ruta": "apps/web/src/workspace/Workspace.css",
+      "sha256": "d498f39494c377178e6782fa6820b1f8068f2e3e5fb24d377b030c1fa45b919b",
+      "bytes": 8915
+    },
+    {
+      "ruta": "apps/web/src/workspace/WorkspaceSidebar.tsx",
+      "sha256": "1c478f296549e77f9f649cd8330d571ab744bbf454436b928a2ba92033ca5511",
+      "bytes": 12835
+    },
+    {
+      "ruta": ".github/workflows/deploy-api-azure.yml",
+      "sha256": "213aec121f0008a7d0fa8fc497434e4602d45c876d45772caf1ce0d9853461d2",
+      "bytes": 1966
+    },
+    {
+      "ruta": "package.json",
+      "sha256": "29a765ac378134ec8f7ad9175e0cfd8e8ae11fcc60e9c03c04150e7b0e671e5f",
+      "bytes": 475
+    },
+    {
+      "ruta": "package-lock.json",
+      "sha256": "eeb7d1036b2a4e3f45dcaf545e091ab65af01c542d381217593deeda62a339ff",
+      "bytes": 261481
+    },
+    {
+      "ruta": "apps/api/package.json",
+      "sha256": "e213313f323f75c4dbb7728577778b85bc98434fa85d580d3196a3ab26d6c59a",
+      "bytes": 3190
+    },
+    {
+      "ruta": "apps/web/package.json",
+      "sha256": "c3fcb12cfe5dfcd35a2096f80d4389455a1c1c03039d561ea797210bbab60e93",
+      "bytes": 548
+    },
+    {
+      "ruta": "apps/api/tsconfig.json",
+      "sha256": "80fddae78445284bffd906668da1187983ba44f8d966bd4866ba873f963375ca",
+      "bytes": 622
+    },
+    {
+      "ruta": "apps/web/tsconfig.json",
+      "sha256": "ad28d132ee48d6e23917cf5827cace785d0fc01a44ca68b0dda51cc8c3fd3f52",
+      "bytes": 126
+    },
+    {
+      "ruta": "apps/web/index.html",
+      "sha256": "0994b6983149556f94259fd5c577faf4f2dec91870afa20c0104fe492820965c",
+      "bytes": 367
+    }
+  ],
+  "alertas_potenciales": [
+    "apps\\api\\src\\auth\\auth.google.spec.ts",
+    "apps\\api\\src\\auth\\auth.registro.http.spec.ts",
+    "apps\\api\\src\\auth\\auth.registro.spec.ts"
+  ]
+}
