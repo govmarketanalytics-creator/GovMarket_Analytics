@@ -1,0 +1,21 @@
+tabla_origen;columna_FK;tabla_referenciada;columna_PK;ON_DELETE
+alertas_oportunidades;empresa_id;empresas;id;CASCADE
+alertas_oportunidades;licitacion_id;licitaciones;id;CASCADE
+licitacion_adjudicaciones;resultado_id;licitacion_resultados;id;CASCADE
+licitacion_items;licitacion_id;licitaciones;id;CASCADE
+licitacion_resultados;licitacion_id;licitaciones;id;CASCADE
+licitaciones_favoritas;empresa_id;empresas;id;CASCADE
+licitaciones_favoritas;licitacion_id;licitaciones;id;CASCADE
+licitaciones_favoritas;agregada_por_usuario_id;usuarios;id;SET NULL
+licitaciones_listado_dia;licitacion_id;licitaciones;id;CASCADE
+membresias_empresa;empresa_id;empresas;id;CASCADE
+membresias_empresa;usuario_id;usuarios;id;CASCADE
+notificaciones_oportunidad;empresa_id;empresas;id;CASCADE
+notificaciones_oportunidad;licitacion_id;licitaciones;id;CASCADE
+notificaciones_usuario;notificacion_id;notificaciones_oportunidad;id;CASCADE
+notificaciones_usuario;usuario_id;usuarios;id;CASCADE
+pagos_transbank;empresa_id;empresas;id;CASCADE
+pagos_transbank;usuario_id;usuarios;id;CASCADE
+perfiles_empresa;empresa_id;empresas;id;CASCADE
+suscripciones_empresa;empresa_id;empresas;id;CASCADE
+licitaciones_ingesta_control;licitacion_id;licitaciones;id;CASCADE

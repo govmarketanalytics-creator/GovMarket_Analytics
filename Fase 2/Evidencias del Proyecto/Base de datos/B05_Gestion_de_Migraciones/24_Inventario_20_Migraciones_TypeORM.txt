@@ -1,0 +1,22 @@
+ARCHIVOS DE MIGRACIONES DEL EXPORT ACTUAL (no implica ejecución):
+
+1788386438732-CreateEmpresasTable.ts
+1788389042276-CreateUsuariosTable.ts
+1788389985118-CreateMembresiasEmpresaTable.ts
+1789067048070-CreateLicitacionesTables.ts
+1789072027874-CreateLicitacionesFavoritasTable.ts
+1789144537483-CreatePerfilesEmpresaTable.ts
+1789150392362-CreateAlertasOportunidadesTable.ts
+1790013600000-AddGoogleSubUsuarios.ts
+1790100000000-AllowGoogleOnlyUsuarios.ts
+1790103600000-CreateSuscripcionesEmpresaTable.ts
+1790899200000-ExpandOnboardingEmpresaProfile.ts
+1791936000000-AddActiveSyncMetadataToLicitaciones.ts
+1792195200000-CreateNotificacionesOportunidad.ts
+1792202400000-CreateResultadosAdjudicaciones.ts
+1792206000000-AllowDuplicateItemCorrelativos.ts
+1792209600000-CreateLicitacionesListadoDia.ts
+1792281600000-CreatePagosTransbank.ts
+1792368000000-LinkPaymentsToSubscriptions.ts
+1794960000000-ControlIngestaIncremental.ts
+1795737600000-AgregarOfertasNexus.ts

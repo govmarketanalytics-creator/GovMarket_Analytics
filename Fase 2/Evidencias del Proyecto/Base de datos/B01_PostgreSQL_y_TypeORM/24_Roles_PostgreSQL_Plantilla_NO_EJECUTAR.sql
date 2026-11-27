@@ -1,0 +1,10 @@
+-- PLANTILLA DIDACTICA. NO EJECUTAR SIN ADAPTACION Y AUTORIZACION.
+-- pg_dump --schema-only NO EXPORTA roles globales, sus contraseñas ni GRANT.
+-- Roles de BD ≠ tabla public.usuarios (usuarios de aplicación).
+-- Ejecutar, solo en entorno de pruebas aislado y con privilegios, comandos ajustados:
+-- CREATE ROLE gma_app_academico LOGIN PASSWORD '<ASIGNAR_SECRET_SEGURO_LOCAL>';
+-- GRANT CONNECT ON DATABASE <BASE_ACADEMICA_NUEVA> TO gma_app_academico;
+-- GRANT USAGE ON SCHEMA public TO gma_app_academico;
+-- GRANT SELECT, INSERT, UPDATE, DELETE ON ALL TABLES IN SCHEMA public TO gma_app_academico;
+-- ALTER DEFAULT PRIVILEGES IN SCHEMA public GRANT SELECT, INSERT, UPDATE, DELETE ON TABLES TO gma_app_academico;
+-- No publicar contraseñas reales, ni copiar privilegios de superusuario.
