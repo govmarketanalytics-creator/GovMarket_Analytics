@@ -1,0 +1,13 @@
+{
+  "modulo": "S01_Backend_NestJS",
+  "titulo": "API backend NestJS",
+  "fuente_actual": "apps/api/src/app.module.ts",
+  "sha256_verificado": "86857e8196fa6ed3bab4ddd6ebd35b07fd0a81650e4ff803454e236dbd69900d",
+  "bytes": 2996,
+  "cotejo_hash": "OK",
+  "captura_codigo": "imagen generada de líneas literales del código actual",
+  "documento": "explicación técnica basada en archivo actual",
+  "mapa_funcional": "explicación; falta capturar ejecución del sistema en QA",
+  "fecha_manifiesto": "2026-11-27T22:56:37.123Z",
+  "revisar_antes_de_publicar": true
+}

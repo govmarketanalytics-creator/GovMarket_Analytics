@@ -1,0 +1,13 @@
+{
+  "modulo": "B02_Tablas_Catalogo_y_FK",
+  "titulo": "Tablas de licitaciones y relaciones",
+  "fuente_actual": "apps/api/src/database/migrations/1789067048070-CreateLicitacionesTables.ts",
+  "sha256_verificado": "cab648a7d8a9b4f6b3aa4e2faad17649ec52f1d50fef336a2662030e357d7c96",
+  "bytes": 4439,
+  "cotejo_hash": "OK",
+  "captura_codigo": "imagen generada de líneas literales del código actual",
+  "documento": "explicación técnica basada en archivo actual",
+  "mapa_funcional": "explicación; falta capturar ejecución del sistema en QA",
+  "fecha_manifiesto": "2026-11-27T22:56:37.123Z",
+  "revisar_antes_de_publicar": true
+}

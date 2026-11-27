@@ -1,0 +1,12 @@
+.mailbox-search-tips { margin: 0 18px 18px; padding: 16px; border: 1px solid #cce8e0; background: #f0f9f6; border-radius: 12px; color: #173b60; }
+.mailbox-search-tips > header { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; padding: 0 !important; margin-bottom: 12px; background: transparent !important; border: 0 !important; }
+.mailbox-search-tips h3 { font-size: 15px; margin: 0; }
+.mailbox-search-tips > header > small { flex-basis: 100%; font-size: 11px; color: #526e7c; }
+.mailbox-search-tips article { padding: 12px 0; }
+.mailbox-search-tips article + article { border-top: 1px solid #d7eae4; }
+.mailbox-search-tips strong { font-size: 13px; }
+.mailbox-search-tips p { font-size: 12px; line-height: 1.6; margin: 6px 0; }
+.mailbox-search-tips button { background: none; border: 0; color: #0769b2; font: inherit; font-size: 12px; cursor: pointer; padding: 6px 0; text-align: left; }
+.mailbox-search-tips button:focus-visible { outline: 3px solid #338be3; outline-offset: 3px; }
+.mailbox-search-tips .mailbox-search-tips-note { font-size: 10px; margin-top: 10px; color: #526e7c; }
+@media (max-width: 600px) { .mailbox-search-tips { margin: 0 12px 12px; padding: 12px; } }

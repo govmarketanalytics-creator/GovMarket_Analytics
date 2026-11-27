@@ -1,0 +1,13 @@
+{
+  "modulo": "S06_Buscador_de_Oportunidades",
+  "titulo": "Buscador y filtros de oportunidades",
+  "fuente_actual": "apps/api/src/oportunidades/oportunidades.controller.ts",
+  "sha256_verificado": "8a78af7b7bee3a23ce1644ebfe6250c2e6bc0be983f05233c23c8a3fb0626178",
+  "bytes": 2199,
+  "cotejo_hash": "OK",
+  "captura_codigo": "imagen generada de líneas literales del código actual",
+  "documento": "explicación técnica basada en archivo actual",
+  "mapa_funcional": "explicación; falta capturar ejecución del sistema en QA",
+  "fecha_manifiesto": "2026-11-27T22:56:37.123Z",
+  "revisar_antes_de_publicar": true
+}

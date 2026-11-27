@@ -1,0 +1,25 @@
+{
+  "name": "govmarket-analytics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "allowScripts": {
+    "@swc/core@1.16.1": true,
+    "argon2@0.45.1": true
+  },
+  "dependencies": {
+    "@nestjs/platform-express": "12.0.1"
+  }
+}

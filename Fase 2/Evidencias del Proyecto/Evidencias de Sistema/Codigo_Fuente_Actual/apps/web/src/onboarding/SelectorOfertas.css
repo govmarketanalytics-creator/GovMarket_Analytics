@@ -1,0 +1,13 @@
+.nexus-selector{color:#17395c}.nexus-selector h3{margin:0 0 .6rem}.nexus-selector p{line-height:1.55}
+.nexus-selector-path{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1rem;margin:1.2rem 0}
+.nexus-selector-path label{display:flex;flex-direction:column;gap:.45rem;font-weight:600}
+.nexus-selector-path select{width:100%;min-height:44px;padding:.65rem;border:1px solid #b9cbdc;border-radius:8px;background:#fff;color:#17395c}
+.nexus-selector-path select:disabled{background:#f3f6f9;color:#617284}
+.nexus-offers{border:1px solid #c9dcd7;border-radius:10px;padding:1rem;display:grid;gap:.7rem}
+.nexus-offers label{display:flex;align-items:center;gap:.8rem;padding:.7rem;background:#f1f8f5;border-radius:7px;cursor:pointer}
+.nexus-offers input{width:19px;height:19px;accent-color:#168c76;flex-shrink:0}
+.nexus-offers span,.nexus-selected span{display:flex;flex-direction:column;gap:.3rem}
+.nexus-offers small,.nexus-selected small,.nexus-selector-hint{color:#587083;font-size:.85rem}
+.nexus-selected{display:grid;gap:.55rem}.nexus-selected>div{display:flex;justify-content:space-between;align-items:center;gap:1rem;padding:.8rem;border:1px solid #c6ddd6;border-radius:8px;background:#f7fbf9}
+.nexus-selected button{min-width:34px;min-height:34px;border:1px solid #b9cbdc;border-radius:6px;background:white;cursor:pointer;font-size:1.25rem;color:#17395c}
+@media(max-width:800px){.nexus-selector-path{grid-template-columns:1fr}}

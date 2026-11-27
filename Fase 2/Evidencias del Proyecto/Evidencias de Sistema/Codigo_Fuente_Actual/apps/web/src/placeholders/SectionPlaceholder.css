@@ -1,0 +1,9 @@
+.section-placeholder { display: grid; min-height: calc(100vh - 75px); padding: 35px 18px; place-items: center; }
+.section-placeholder article { width: min(100%, 590px); padding: 45px; border: 1px solid #dfe7ec; border-radius: 16px; background: #fff; box-shadow: 0 12px 34px rgba(26,51,72,.07); text-align: center; }
+.section-placeholder article > span { display: grid; width: 66px; height: 66px; margin: 0 auto 18px; place-items: center; border-radius: 18px; background: #e8f6f2; color: #087f5b; font-size: 30px; font-weight: 800; }
+.section-placeholder small { color: #087f5b; font-weight: 800; letter-spacing: .12em; }
+.section-placeholder h1 { margin: 8px 0 10px; color: #15324a; font-size: 28px; }
+.section-placeholder p { max-width: 470px; margin: auto; color: #6e7e8a; line-height: 1.65; }
+.section-placeholder div { display: grid; gap: 3px; margin-top: 25px; padding: 14px; border-radius: 9px; background: #f4f7f8; color: #667783; font-size: 12px; }
+.section-placeholder div strong { color: #3c5262; }
+@media (max-width: 600px) { .section-placeholder article { padding: 32px 20px; } }

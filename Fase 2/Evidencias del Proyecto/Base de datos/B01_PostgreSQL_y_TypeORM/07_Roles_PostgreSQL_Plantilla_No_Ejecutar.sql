@@ -1,0 +1,14 @@
+-- GOVMARKET ANALYTICS / EVIDENCIA DE ROLES DEL MOTOR
+-- EJEMPLO DIDÁCTICO NO EJECUTABLE Y NO EXTRAÍDO DE LA BASE REAL.
+-- La cuenta PostgreSQL no es lo mismo que una cuenta de usuario del SaaS.
+-- La creación de roles reales debe hacerse con autorización y contraseñas
+-- proporcionadas fuera de GitHub (nunca fijarlas en un .sql público).
+--
+-- Ejemplo conceptual:
+-- CREATE ROLE <nombre_rol_aplicacion> LOGIN;
+-- GRANT CONNECT ON DATABASE <nombre_base> TO <nombre_rol_aplicacion>;
+-- GRANT USAGE ON SCHEMA public TO <nombre_rol_aplicacion>;
+--
+-- NOTA: las sentencias anteriores están comentadas expresamente.
+-- Para evidencia de la cuenta real, entregar SOLO nombres/privilegios
+-- revisados y autorizados desde pg_roles, sin hash ni secretos.

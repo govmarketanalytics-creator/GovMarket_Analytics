@@ -1,0 +1,49 @@
+{
+  "fecha_manifiesto": "2026-11-27T22:56:37.123Z",
+  "hash_mensaje": "230 de 230 coinciden",
+  "archivos_codigo": 230,
+  "modulos": 20,
+  "migraciones_typeorm": 20,
+  "imagenes_png": 20,
+  "documentos_word": 20,
+  "pdfs": 20,
+  "excluidos": [
+    "apps\\api\\src\\auth\\auth.google.spec.ts",
+    "apps\\api\\src\\auth\\auth.registro.http.spec.ts",
+    "apps\\api\\src\\auth\\auth.registro.spec.ts"
+  ],
+  "escaneos_secretos_alta_confianza": [],
+  "ubicaciones_con_cadena_email": [
+    [
+      "apps/api/src/analisis-mercado/noticias-mercado.service.spec.ts",
+      48
+    ],
+    [
+      "apps/api/src/notificaciones/scripts/crear-notificacion-prueba.ts",
+      12
+    ],
+    [
+      "apps/api/src/oportunidades/oportunidades.exclusion-pruebas.spec.ts",
+      129
+    ],
+    [
+      "apps/api/src/oportunidades/oportunidades.exclusion-pruebas.spec.ts",
+      141
+    ],
+    [
+      "apps/web/src/App.tsx",
+      604
+    ],
+    [
+      "apps/web/src/auth/RegistroUsuario.tsx",
+      183
+    ],
+    [
+      "apps/web/src/onboarding/Onboarding.tsx",
+      1027
+    ]
+  ],
+  "esquema_postgresql_actual": "pendiente",
+  "ejecucion_qas": "pendiente",
+  "conexion_github": "no realizada"
+}
